@@ -1,0 +1,16 @@
+C:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\bin\Debug\net8.0\API.Entities.deps.json
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\bin\Debug\net8.0\API.Entities.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\bin\Debug\net8.0\API.Entities.pdb
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\bin\Debug\net8.0\API.Commons.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\bin\Debug\net8.0\API.Commons.pdb
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.csproj.AssemblyReference.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.AssemblyInfoInputs.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.AssemblyInfo.cs
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.csproj.CoreCompileInputs.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.sourcelink.json
+C:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Enti.93B2DF92.Up2Date
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\refint\API.Entities.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\API.Entities.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Entities\obj\Debug\net8.0\ref\API.Entities.dll

@@ -1,0 +1,13 @@
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\bin\Debug\net8.0\API.Commons.deps.json
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\bin\Debug\net8.0\API.Commons.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\bin\Debug\net8.0\API.Commons.pdb
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.csproj.AssemblyReference.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.AssemblyInfoInputs.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.AssemblyInfo.cs
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.csproj.CoreCompileInputs.cache
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.sourcelink.json
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\refint\API.Commons.dll
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\API.Commons.pdb
+c:\Users\joaom\OneDrive\Área de Trabalho\Arquivos\Arquivos importantes - Copia\Markeplace\API\API.Api\API.Commons\obj\Debug\net8.0\ref\API.Commons.dll
