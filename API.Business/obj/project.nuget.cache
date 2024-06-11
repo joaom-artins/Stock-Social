@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+PQY2JDa8SKM44DI8xlfG/cOIftKjJGrYfUlX97Q5mrLbSGA53pntwBF+HKi5hA0uKvehCmJeI/bszKl+Av8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaom\\OneDrive\\Área de Trabalho\\Arquivos\\Arquivos importantes - Copia\\Markeplace\\API\\API.Api\\API.Business\\API.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaom\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.5\\microsoft.entityframeworkcore.8.0.5.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.5\\microsoft.entityframeworkcore.abstractions.8.0.5.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.5\\microsoft.entityframeworkcore.analyzers.8.0.5.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
